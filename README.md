@@ -14,4 +14,4 @@ Algunas cosas sobre mi:
 
 Ahi va foto con mi perra
 
-<img src="IMG_7314.jpeg" height="40px">
+<img src="IMG_7314.jpeg" height="400px">
