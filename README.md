@@ -12,5 +12,6 @@ Algunas cosas sobre mi:
 - tengo una hermana menor y un hermano mayor
 - trabajo para una empresa chilena
 
-Sacarme selfies es mi pasion(?
-<img src="IMG_0533.jpeg" height="500px">
+Ahi va foto con mi perra
+
+<img src="IMG_7314.jpeg" height="40px">
