@@ -13,3 +13,5 @@ Algunas cosas sobre mi:
 
 Y mi pasion es sacarme selfies random(?
 ![selfie](IMG_0331.jpeg)
+
+<img src="IMG_0331.jpeg" height="50px">
